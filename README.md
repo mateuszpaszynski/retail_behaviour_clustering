@@ -20,6 +20,12 @@ The project includes:
 * clustering stability check,
 * visualisations using PCA, t-SNE and radar charts.
 
+
+## Results
+![t-SNE](results/t-SNE.png)
+![PCA](results/PCA.png)
+![Radar chart](results/radar_chart.png)
+
 ## Technologies
 
 * Python
